@@ -1,21 +1,17 @@
 {
   "name": "viewspotfinder",
   "version": "1.0.0",
-  "main": "index.ts",
-  "scripts": {
-    "test": "vitest"
-  },
-  "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": "",
+  "main": "index.ts",
   "dependencies": {
     "fs": "^0.0.1-security",
-    "tsc": "^2.0.4",
     "vitest": "^3.0.9",
     "winston": "^3.17.0"
   },
-  "devDependencies": {
-    "@types/node": "^22.13.11"
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "test": "vitest"
   }
 }
